@@ -18,7 +18,7 @@ Incluye:
 ## Integrantes
 
 Erik Santiago Ortiz Castañeda
-Andres Sebastián Murcia Corredor
+Andres Sebastián Murcia Corredor Esto lo hice yo
 
 ## Uso
 
