@@ -17,8 +17,8 @@ Incluye:
 
 ## Integrantes
 
-Erik Santiago Ortiz Castañeda
-Andres Sebastián Murcia Corredor
+- Erik Santiago Ortiz Castañeda
+- Andres Sebastián Murcia Corredor
 
 ## Uso
 
